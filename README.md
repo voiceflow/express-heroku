@@ -7,17 +7,25 @@
 * Install Node.js https://nodejs.org/en/download/
 
 Create a Project Folder
+
 `npm init`
+
 `npm install express --save`
 
 Create index.js
+
 Create Procfile
 
 `heroku login`
+
 `git init`
+
 `heroku git:remote -a {your project name here}` 
 
 Deploy 
+
 `git add -A`
+
 `git commit -m "{your message here}"`
+
 `git push`
