@@ -1,0 +1,19 @@
+{
+  "name": "express-heroku",
+  "version": "1.0.0",
+  "description": "Quick Node/Express Project Setup with Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storyflow/express-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storyflow/express-heroku/issues"
+  },
+  "homepage": "https://github.com/storyflow/express-heroku#readme"
+}
